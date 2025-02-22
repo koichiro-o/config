@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "git.autofetch": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.lineNumbers": "relative",
+    "editor.fontSize": 18,
+    "editor.codeLensFontSize": 18,
+    "editor.inlayHints.fontSize": 18,
+    "terminal.external.osxExec": "/Application/Ghostty.app/Contents/MacOS/Ghostty",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 18,
+    "vim.useSystemClipboard": true,
+    "chat.editor.fontSize": 18,
+}

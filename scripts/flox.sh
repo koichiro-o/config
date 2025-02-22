@@ -3,7 +3,7 @@
 flox install bat eza fd ripgrep ripgrep-all sd zoxide atuin
 flox install fish curl git fx jq fzf gh httpie shellcheck direnv
 flox install lazygit lazydocker
-flox install zig nodejs go rustup
+flox install zig nodejs go rustup uv
 flox install bun
 
 # Auto activation
